@@ -16,3 +16,5 @@
 - O botão para filtrar poderia já estar com alguma funcionalidade;
 - Os botões de informações sobre os gráficos poderiam estar funcionais também;
 - Ao clicar no título voltar para a página inicial (ou atualizar).
+
+## [Clique aqui](https://minehr-teste.vercel.app/) para acessar a aplicação.
